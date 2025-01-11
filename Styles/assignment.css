@@ -1,0 +1,24 @@
+.fira-sans-normals {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font: size 45px; ;
+  }
+  
+  
+  nav{ display: 
+    flex;
+align-items: center;
+justify-content: space-between;
+margin: 10px 50px;
+  }
+
+.btn-primary{stroke: #006A50;
+background-color: white;
+font-weight:bold;
+padding: 10px 10px;
+border-radius: 5px;}
+
+nav ul li {list-style: none;}
+    
+}
+.nav-title
